@@ -1,0 +1,17 @@
+# AstraProjecta – Patch experimental TauriTavern Android
+
+Teste não oficial de compatibilidade da extensão [AstraProjecta](https://github.com/RivelleDays/SillyTavern-AstraProjecta) (RivelleDays) com TauriTavern 2.3.0. Este fork de teste não é mantido pela autora original.
+
+## Instalação
+
+No TauriTavern: Extensões > Instalar extensão > informe a URL deste repositório público. Reinicie o app.
+
+Este pacote especial para upload no GitHub tem `manifest.json`, `index.js` e `style.css` na **raiz** para permitir enviar os arquivos pelo navegador móvel. `codigo-fonte-completo.zip` contém os arquivos-fonte alterados e configuração de build.
+
+## Limites
+
+Patch experimental para a barra de digitação ausente no Android. Não validado no Samsung S23 real e não há garantia de correção. Atualização automática desabilitada no manifest.
+
+## Licença e código-fonte
+
+Baseado em © RivelleDays, SillyTavern-AstraProjecta; licença AGPL-3.0, ver `LICENSE.txt`. Os fontes completos e as modificações CSS que geraram esta versão estão em `codigo-fonte-completo.zip` neste repositório.
